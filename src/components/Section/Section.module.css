@@ -1,0 +1,14 @@
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    gap: 8px;
+}
+
+.title{
+    color: #1956a0;
+    font-size: 36px;
+    box-shadow: 12px 12px 2px 1px #0b0ba672;
+}

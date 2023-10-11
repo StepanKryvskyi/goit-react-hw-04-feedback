@@ -1,0 +1,16 @@
+.btnList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 12px;
+}
+
+.feedbackBtb{
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: #1956a0;
+    color: #fff;
+}
