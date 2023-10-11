@@ -51,7 +51,6 @@ function App() {
     </Section>
   );
 }
-
 export default App;
 
 // export class App extends Component {
