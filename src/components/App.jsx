@@ -9,7 +9,7 @@ function App() {
   const [neutral, setNeutral] = useState(0);
   const [bad, setBad] = useState(0);
 
-  const handleFeedback = feedbackType => {
+  const handleFeedback = (feedbackType) => {
     if (feedbackType === 'good') {
       setGood(good + 1);
     } else if (feedbackType === 'neutral') {
