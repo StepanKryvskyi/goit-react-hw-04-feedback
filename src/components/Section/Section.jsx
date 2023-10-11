@@ -8,3 +8,4 @@ export const Section = ({ title, children }) => {
     </section>
   );
 };
+
